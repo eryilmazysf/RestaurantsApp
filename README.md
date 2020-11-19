@@ -7,8 +7,8 @@
   </p>
   <p> ➡️  Users can select the city they want on the world map by typing in the search button. </p>
   <p> ➡️  Users can see all restaurants in city which is selected.</p>
-  <p> ➡️  Each restaurants in the city which selected by user are marked on the map.</p>
-  <p> ➡️  user can view details about the restaurant marked on the map by clicking the location marker</p>
+  <p> ➡️  Each restaurant in the city which selected by user are marked on the map.</p>
+  <p> ➡️  Users can view details about the restaurant marked on the map by clicking the location marker</p>
  
  
 
